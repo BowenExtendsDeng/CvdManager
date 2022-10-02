@@ -1,6 +1,8 @@
 #pragma once
 
 #include <QtWidgets/QMainWindow>
+#include<QTextEdit>
+#include <QDockWidget>
 #include "ui_CvdManager.h"
 
 class CvdManager : public QMainWindow

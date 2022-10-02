@@ -32,7 +32,9 @@ private:
 	int flag;
 
 public:
-	CvdSocket();
+	CvdSocket(unsigned char m_1, unsigned char m_2, unsigned char m_3, 
+		unsigned char m_4, unsigned char m_7, unsigned char m_data_addr,
+		unsigned char m_data_num);
 	~CvdSocket();
 	void SendCvdData();
 	void ReceiveCvdData();
