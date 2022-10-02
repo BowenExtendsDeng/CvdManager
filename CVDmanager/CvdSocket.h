@@ -1,4 +1,5 @@
-#pragma once
+﻿#pragma once
+
 #include <QTcpSocket>
 
 #include "Logger.h"

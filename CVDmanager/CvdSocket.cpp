@@ -1,4 +1,4 @@
-#include "CvdSocket.h"
+﻿#include "CvdSocket.h"
 
 CvdSocket::CvdSocket(unsigned char m_1, unsigned char m_2, unsigned char m_3, 
 	unsigned char m_4, unsigned char m_7, unsigned char m_data_addr, 

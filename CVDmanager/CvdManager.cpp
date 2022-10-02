@@ -1,42 +1,44 @@
-#include "CvdManager.h"
+ï»¿#include "CvdManager.h"
 
 CvdManager::CvdManager(QWidget *parent)
     : QMainWindow(parent)
 {
-    //setWindowTitle("Í£¿¿´°¿Ú");
+    this->setWindowTitle("CVDæ§åˆ¶è½¯ä»¶");
 
     QTextEdit* te = new QTextEdit("MainWindow", this);
     te->setAlignment(Qt::AlignCenter);
     setCentralWidget(te);
 
-    //Í£¿¿´°¿Ú1
-    QDockWidget* dw1 = new QDockWidget("Í£¿¿´°¿Ú1", this);//¹¹½¨Í£¿¿´°¿Ú£¬Ö¸¶¨¸¸Àà
+    //åœé çª—å£1
+    QDockWidget* dw1 = new QDockWidget("åœé çª—å£1", this);//æ„å»ºåœé çª—å£ï¼ŒæŒ‡å®šçˆ¶ç±»
 
-    dw1->setFeatures(QDockWidget::DockWidgetMovable | QDockWidget::DockWidgetClosable);//ÉèÖÃÍ£¿¿´°¿ÚÌØĞÔ£¬¿ÉÒÆ¶¯£¬¿É¹Ø±Õ
+    dw1->setFeatures(QDockWidget::DockWidgetMovable | QDockWidget::DockWidgetClosable);//è®¾ç½®åœé çª—å£ç‰¹æ€§ï¼Œå¯ç§»åŠ¨ï¼Œå¯å…³é—­
 
-    dw1->setAllowedAreas(Qt::LeftDockWidgetArea | Qt::RightDockWidgetArea);//ÉèÖÃ¿ÉÍ£¿¿ÇøÓòÎªÖ÷´°¿Ú×ó±ßºÍÓÒ±ß
+    dw1->setAllowedAreas(Qt::LeftDockWidgetArea | Qt::RightDockWidgetArea);//è®¾ç½®å¯åœé åŒºåŸŸä¸ºä¸»çª—å£å·¦è¾¹å’Œå³è¾¹
 
     QTextEdit* dte = new QTextEdit("DockWindow First");
     dw1->setWidget(dte);
     addDockWidget(Qt::RightDockWidgetArea, dw1);
 
-    //Í£¿¿´°¿Ú2
-    QDockWidget* dw2 = new QDockWidget("Í£¿¿´°¿Ú2", this);//¹¹½¨Í£¿¿´°¿Ú£¬Ö¸¶¨¸¸Àà
+    //åœé çª—å£2
+    QDockWidget* dw2 = new QDockWidget("åœé çª—å£2", this);//æ„å»ºåœé çª—å£ï¼ŒæŒ‡å®šçˆ¶ç±»
 
-    dw2->setFeatures(QDockWidget::DockWidgetFloatable | QDockWidget::DockWidgetClosable);//ÉèÖÃÍ£¿¿´°¿ÚÌØĞÔ£¬¿É¸¡¶¯,¿É¹Ø±Õ
+    dw2->setFeatures(QDockWidget::DockWidgetFloatable | QDockWidget::DockWidgetClosable);//è®¾ç½®åœé çª—å£ç‰¹æ€§ï¼Œå¯æµ®åŠ¨,å¯å…³é—­
 
     QTextEdit* dte2 = new QTextEdit("DockWindow Second");
     dw2->setWidget(dte2);
     addDockWidget(Qt::RightDockWidgetArea, dw2);
 
-    //Í£¿¿´°¿Ú3
-    QDockWidget* dw3 = new QDockWidget("Í£¿¿´°¿Ú3", this);//¹¹½¨Í£¿¿´°¿Ú£¬Ö¸¶¨¸¸Àà
+    //åœé çª—å£3
+    QDockWidget* dw3 = new QDockWidget("åœé çª—å£3", this);//æ„å»ºåœé çª—å£ï¼ŒæŒ‡å®šçˆ¶ç±»
 
-    dw3->setFeatures(QDockWidget::DockWidgetFloatable);//ÉèÖÃÍ£¿¿´°¿ÚÌØĞÔ£¬¾ßÓĞÈ«²¿Í£¿¿´°¿ÚµÄÌØĞÔ
+    dw3->setFeatures(QDockWidget::DockWidgetFloatable);//è®¾ç½®åœé çª—å£ç‰¹æ€§ï¼Œå…·æœ‰å…¨éƒ¨åœé çª—å£çš„ç‰¹æ€§
 
     QTextEdit* dte3 = new QTextEdit("DockWindow Third");
     dw3->setWidget(dte3);
     addDockWidget(Qt::RightDockWidgetArea, dw3);
+
+    this->resize(1000, 600);
 }
 
 CvdManager::~CvdManager()

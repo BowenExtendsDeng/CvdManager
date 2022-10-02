@@ -31,9 +31,13 @@
     <Import Project="$(QtMsBuild)\qt_defaults.props" />
   </ImportGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="QtSettings">
-    <QtInstall>6.3.1_mingw_64</QtInstall>
     <QtModules>charts;core;gui;network;sql;widgets</QtModules>
     <QtBuildConfig>debug</QtBuildConfig>
+    <QtPathBinaries>bin</QtPathBinaries>
+    <QtPathLibraryExecutables>bin</QtPathLibraryExecutables>
+    <QtHeaderSearchPath>bin</QtHeaderSearchPath>
+    <QtLibrarySearchPath>bin</QtLibrarySearchPath>
+    <QtInstall>6.3.0_msvc2019_64</QtInstall>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="QtSettings">
     <QtInstall>6.3.1_mingw_64</QtInstall>

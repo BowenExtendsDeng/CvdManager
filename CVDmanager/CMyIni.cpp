@@ -1,4 +1,4 @@
-#include "CMyIni.h"
+ï»¿#include "CMyIni.h"
 
 #define INIDEBUG
 
@@ -63,11 +63,11 @@ int CMyIni::ReadIni(std::string path)
     for (std::vector<IniNode>::iterator itr = vec_ini.begin(); itr != vec_ini.end(); ++itr)
     {
         map_tmp.insert(std::pair<std::string, std::string>(itr->root, ""));
-    } //ÌáÈ¡³ö¸ù½Úµã
+    } //æå–å‡ºæ ¹èŠ‚ç‚¹
     for (std::map<std::string, std::string>::iterator itr = map_tmp.begin(); itr != map_tmp.end(); ++itr)
     {
 #ifdef INIDEBUG
-        std::cout << "¸ù½Úµã£º " << itr->first << std::endl;
+        std::cout << "æ ¹èŠ‚ç‚¹ï¼š " << itr->first << std::endl;
 #endif  //INIDEBUG
         SubNode sn;
         for (std::vector<IniNode>::iterator sub_itr = vec_ini.begin(); sub_itr != vec_ini.end(); ++sub_itr)
@@ -75,7 +75,7 @@ int CMyIni::ReadIni(std::string path)
             if (sub_itr->root == itr->first)
             {
 #ifdef INIDEBUG
-                std::cout << "¼üÖµ¶Ô£º " << sub_itr->key << "=" << sub_itr->value << std::endl;
+                std::cout << "é”®å€¼å¯¹ï¼š " << sub_itr->key << "=" << sub_itr->value << std::endl;
 #endif  //INIDEBUG
                 sn.InsertElement(sub_itr->key, sub_itr->value);
             }
@@ -119,18 +119,18 @@ int CMyIni::WriteIni(std::string path)
 
 std::vector<IniNode>::size_type CMyIni::SetValue(std::string root, std::string key, std::string value)
 {
-    std::map<std::string, SubNode>::iterator itr = map_ini.find(root);  //²éÕÒ
+    std::map<std::string, SubNode>::iterator itr = map_ini.find(root);  //æŸ¥æ‰¾
     if (map_ini.end() != itr)
     {
         //itr->second.sub_node.insert(pair<string, string>(key, value));
         itr->second.sub_node[key] = value;
-    } //¸ù½ÚµãÒÑ¾­´æÔÚÁË£¬¸üĞÂÖµ
+    } //æ ¹èŠ‚ç‚¹å·²ç»å­˜åœ¨äº†ï¼Œæ›´æ–°å€¼
     else
     {
         SubNode sn;
         sn.InsertElement(key, value);
         map_ini.insert(std::pair<std::string, SubNode>(root, sn));
-    } //¸ù½Úµã²»´æÔÚ£¬Ìí¼ÓÖµ
+    } //æ ¹èŠ‚ç‚¹ä¸å­˜åœ¨ï¼Œæ·»åŠ å€¼
 
     return map_ini.size();
 }

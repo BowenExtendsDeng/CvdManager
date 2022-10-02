@@ -1,4 +1,4 @@
-#include "CvdManager.h"
+﻿#include "CvdManager.h"
 #include <QtWidgets/QApplication>
 #include "CMyIni.h"
 #include "Logger.h"

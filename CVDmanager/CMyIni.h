@@ -1,4 +1,4 @@
-#pragma once
+ï»¿#pragma once
 
 #include <iostream>
 #include <fstream>
@@ -8,7 +8,7 @@
 #include <map>
 #include "Logger.h"
 
-//INIÎÄ¼ş½áµã´æ´¢½á¹¹
+//INIæ–‡ä»¶ç»“ç‚¹å­˜å‚¨ç»“æ„
 class IniNode
 {
 public:
@@ -23,7 +23,7 @@ public:
     std::string value;
 };
 
-//¼üÖµ¶Ô½á¹¹Ìå
+//é”®å€¼å¯¹ç»“æ„ä½“
 class SubNode
 {
 public:
@@ -34,12 +34,12 @@ public:
     std::map<std::string, std::string> sub_node;
 };
 
-//INIÎÄ¼ş²Ù×÷Àà
+//INIæ–‡ä»¶æ“ä½œç±»
 class CMyIni
 {
 private:
     /// <summary>
-    ///     INIÎÄ¼şÄÚÈİµÄ´æ´¢±äÁ¿
+    ///     INIæ–‡ä»¶å†…å®¹çš„å­˜å‚¨å˜é‡
     /// </summary>
     std::map<std::string, SubNode> map_ini;
 public:
@@ -48,14 +48,14 @@ public:
 
 public:
     /// <summary>
-    ///     ¶ÁÈ¡INIÎÄ¼ş
+    ///     è¯»å–INIæ–‡ä»¶
     /// </summary>
     /// <param name="path"></param>
     /// <returns></returns>
     int ReadIni(std::string path);
     
     /// <summary>
-    ///     ÓÉ¸ù½áµãºÍ¼ü»ñÈ¡Öµ
+    ///     ç”±æ ¹ç»“ç‚¹å’Œé”®è·å–å€¼
     /// </summary>
     /// <param name="root"></param>
     /// <param name="key"></param>
@@ -63,13 +63,13 @@ public:
     std::string GetValue(std::string root, std::string key);
     
     /// <summary>
-    ///     »ñÈ¡INIÎÄ¼şµÄ½áµãÊı
+    ///     è·å–INIæ–‡ä»¶çš„ç»“ç‚¹æ•°
     /// </summary>
     /// <returns></returns>
     std::vector<IniNode>::size_type GetSize();
     
     /// <summary>
-    ///     ÉèÖÃ¸ù½áµãºÍ¼ü»ñÈ¡Öµ
+    ///     è®¾ç½®æ ¹ç»“ç‚¹å’Œé”®è·å–å€¼
     /// </summary>
     /// <param name="root"></param>
     /// <param name="key"></param>
@@ -78,19 +78,19 @@ public:
     std::vector<IniNode>::size_type SetValue(std::string root, std::string key, std::string value);
     
     /// <summary>
-    ///     Ğ´ÈëINIÎÄ¼ş
+    ///     å†™å…¥INIæ–‡ä»¶
     /// </summary>
     /// <param name="path"></param>
     /// <returns></returns>
     int WriteIni(std::string path);
     
     /// <summary>
-    ///     Çå¿Õ
+    ///     æ¸…ç©º
     /// </summary>
     void Clear();
     
     /// <summary>
-    ///     ±éÀú´òÓ¡INIÎÄ¼ş
+    ///     éå†æ‰“å°INIæ–‡ä»¶
     /// </summary>
     void Travel();
 };

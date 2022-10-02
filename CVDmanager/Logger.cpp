@@ -1,4 +1,4 @@
-#include "Logger.h"
+﻿#include "Logger.h"
 
 void Logger::Log(std::string msg,int type) {
 	// open log.txt to write
