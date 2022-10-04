@@ -1,14 +1,12 @@
 ﻿#pragma once
 
-#include <QTcpSocket>
-
 #include "Logger.h"
 #include "CMyIni.h"
 
-#include <qhostaddress.h>
+#include <QTcpSocket>
 #include <QString>
 
-class CvdSocket
+class ModbusSocket
 {
 private:
 
@@ -33,11 +31,14 @@ private:
 	int flag;
 
 public:
-	CvdSocket(unsigned char m_1, unsigned char m_2, unsigned char m_3, 
+
+	ModbusSocket(unsigned char m_1, unsigned char m_2, unsigned char m_3,
 		unsigned char m_4, unsigned char m_7, unsigned char m_data_addr,
 		unsigned char m_data_num);
-	~CvdSocket();
-	void SendCvdData();
-	void ReceiveCvdData();
+	~ModbusSocket();
+
+	void SendModbusData();
+
+	void ReceiveModbusData();
 };
 

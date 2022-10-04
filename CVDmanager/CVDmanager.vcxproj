@@ -33,16 +33,22 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'" Label="QtSettings">
     <QtModules>charts;core;gui;network;sql;widgets</QtModules>
     <QtBuildConfig>debug</QtBuildConfig>
-    <QtPathBinaries>bin</QtPathBinaries>
+    <QtInstall>6.3.1_msvc2019_64</QtInstall>
     <QtPathLibraryExecutables>bin</QtPathLibraryExecutables>
-    <QtHeaderSearchPath>bin</QtHeaderSearchPath>
-    <QtLibrarySearchPath>bin</QtLibrarySearchPath>
-    <QtInstall>6.3.0_msvc2019_64</QtInstall>
+    <QtHeaderSearchPath>
+    </QtHeaderSearchPath>
+    <QtLibrarySearchPath>
+    </QtLibrarySearchPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'" Label="QtSettings">
-    <QtInstall>6.3.1_mingw_64</QtInstall>
+    <QtInstall>6.3.1_msvc2019_64</QtInstall>
     <QtModules>core;gui;widgets</QtModules>
     <QtBuildConfig>release</QtBuildConfig>
+    <QtPathLibraryExecutables>bin</QtPathLibraryExecutables>
+    <QtHeaderSearchPath>
+    </QtHeaderSearchPath>
+    <QtLibrarySearchPath>
+    </QtLibrarySearchPath>
   </PropertyGroup>
   <Target Name="QtMsBuildNotFound" BeforeTargets="CustomBuild;ClCompile" Condition="!Exists('$(QtMsBuild)\qt.targets') or !Exists('$(QtMsBuild)\qt.props')">
     <Message Importance="High" Text="QtMsBuild: could not locate qt.targets, qt.props; project may not build correctly." />
@@ -94,7 +100,7 @@
     <QtMoc Include="CvdManager.h" />
     <ClCompile Include="CMyIni.cpp" />
     <ClCompile Include="CvdManager.cpp" />
-    <ClCompile Include="CvdSocket.cpp" />
+    <ClCompile Include="ModbusSocket.cpp" />
     <ClCompile Include="Logger.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
@@ -103,7 +109,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CMyIni.h" />
-    <ClInclude Include="CvdSocket.h" />
+    <ClInclude Include="ModbusSocket.h" />
     <ClInclude Include="Logger.h" />
   </ItemGroup>
   <ItemGroup>
