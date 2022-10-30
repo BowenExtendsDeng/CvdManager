@@ -24,4 +24,12 @@ void Logger::Log(std::string msg,int type) {
 	outfile << " "
 			<< msg << std::endl;
 	outfile.close();
+
+	// print type to record
+	if (type == ERROR) {
+
+		QMessageBox::critical(NULL, "程序运行时出错！",
+			QString::fromStdString(msg) ,
+			QMessageBox::Ok);
+	}
 }

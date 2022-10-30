@@ -392,3 +392,1113 @@
 2022-10-30-15:56:32 INFO:  ip = 192.168.1.25
 2022-10-30-15:56:32 INFO:  port = 502
 2022-10-30-15:56:32 INFO:  -----------------------------------
+2022-10-30-17:10:44 INFO:  -----------------------------------
+2022-10-30-17:10:44 INFO:  start to read config.ini
+2022-10-30-17:10:44 INFO:  [database]
+2022-10-30-17:10:44 INFO:  database_name = cvd_data
+2022-10-30-17:10:44 INFO:  ip = 127.0.0.1
+2022-10-30-17:10:44 INFO:  password = admin
+2022-10-30-17:10:44 INFO:  port = 3306
+2022-10-30-17:10:44 INFO:  username = root
+2022-10-30-17:10:44 INFO:  start to read config.ini
+2022-10-30-17:10:44 INFO:  [device_1]
+2022-10-30-17:10:44 INFO:  ip = 127.0.0.1
+2022-10-30-17:10:44 INFO:  port = 503
+2022-10-30-17:10:44 INFO:  start to read config.ini
+2022-10-30-17:10:44 INFO:  [device_2]
+2022-10-30-17:10:44 INFO:  ip = 192.168.1.25
+2022-10-30-17:10:44 INFO:  port = 502
+2022-10-30-17:10:44 INFO:  -----------------------------------
+2022-10-30-17:11:16 INFO:  -----------------------------------
+2022-10-30-17:11:16 INFO:  start to read config.ini
+2022-10-30-17:11:16 INFO:  [database]
+2022-10-30-17:11:16 INFO:  database_name = cvd_data
+2022-10-30-17:11:16 INFO:  ip = 127.0.0.1
+2022-10-30-17:11:16 INFO:  password = admin
+2022-10-30-17:11:16 INFO:  port = 3306
+2022-10-30-17:11:16 INFO:  username = root
+2022-10-30-17:11:16 INFO:  start to read config.ini
+2022-10-30-17:11:16 INFO:  [device_1]
+2022-10-30-17:11:16 INFO:  ip = 127.0.0.1
+2022-10-30-17:11:16 INFO:  port = 503
+2022-10-30-17:11:16 INFO:  start to read config.ini
+2022-10-30-17:11:16 INFO:  [device_2]
+2022-10-30-17:11:16 INFO:  ip = 192.168.1.25
+2022-10-30-17:11:16 INFO:  port = 502
+2022-10-30-17:11:16 INFO:  -----------------------------------
+2022-10-30-17:12:07 INFO:  -----------------------------------
+2022-10-30-17:12:07 INFO:  start to read config.ini
+2022-10-30-17:12:07 INFO:  [database]
+2022-10-30-17:12:07 INFO:  database_name = cvd_data
+2022-10-30-17:12:07 INFO:  ip = 127.0.0.1
+2022-10-30-17:12:07 INFO:  password = admin
+2022-10-30-17:12:07 INFO:  port = 3306
+2022-10-30-17:12:07 INFO:  username = root
+2022-10-30-17:12:07 INFO:  start to read config.ini
+2022-10-30-17:12:07 INFO:  [device_1]
+2022-10-30-17:12:07 INFO:  ip = 127.0.0.1
+2022-10-30-17:12:07 INFO:  port = 503
+2022-10-30-17:12:07 INFO:  start to read config.ini
+2022-10-30-17:12:07 INFO:  [device_2]
+2022-10-30-17:12:07 INFO:  ip = 192.168.1.25
+2022-10-30-17:12:07 INFO:  port = 502
+2022-10-30-17:12:07 INFO:  -----------------------------------
+2022-10-30-17:12:34 INFO:  -----------------------------------
+2022-10-30-17:12:34 INFO:  start to read config.ini
+2022-10-30-17:12:34 INFO:  [database]
+2022-10-30-17:12:34 INFO:  database_name = cvd_data
+2022-10-30-17:12:34 INFO:  ip = 127.0.0.1
+2022-10-30-17:12:34 INFO:  password = admin
+2022-10-30-17:12:34 INFO:  port = 3306
+2022-10-30-17:12:34 INFO:  username = root
+2022-10-30-17:12:34 INFO:  start to read config.ini
+2022-10-30-17:12:34 INFO:  [device_1]
+2022-10-30-17:12:34 INFO:  ip = 127.0.0.1
+2022-10-30-17:12:34 INFO:  port = 503
+2022-10-30-17:12:34 INFO:  start to read config.ini
+2022-10-30-17:12:34 INFO:  [device_2]
+2022-10-30-17:12:34 INFO:  ip = 192.168.1.25
+2022-10-30-17:12:34 INFO:  port = 502
+2022-10-30-17:12:34 INFO:  -----------------------------------
+2022-10-30-17:12:42 INFO:  -----------------------------------
+2022-10-30-17:12:42 INFO:  start to read config.ini
+2022-10-30-17:12:42 INFO:  [database]
+2022-10-30-17:12:42 INFO:  database_name = cvd_data
+2022-10-30-17:12:42 INFO:  ip = 127.0.0.1
+2022-10-30-17:12:42 INFO:  password = admin
+2022-10-30-17:12:42 INFO:  port = 3306
+2022-10-30-17:12:42 INFO:  username = root
+2022-10-30-17:12:42 INFO:  start to read config.ini
+2022-10-30-17:12:42 INFO:  [device_1]
+2022-10-30-17:12:42 INFO:  ip = 127.0.0.1
+2022-10-30-17:12:42 INFO:  port = 503
+2022-10-30-17:12:42 INFO:  start to read config.ini
+2022-10-30-17:12:42 INFO:  [device_2]
+2022-10-30-17:12:42 INFO:  ip = 192.168.1.25
+2022-10-30-17:12:42 INFO:  port = 502
+2022-10-30-17:12:42 INFO:  -----------------------------------
+2022-10-30-17:13:16 INFO:  -----------------------------------
+2022-10-30-17:13:16 INFO:  start to read config.ini
+2022-10-30-17:13:16 INFO:  [database]
+2022-10-30-17:13:16 INFO:  database_name = cvd_data
+2022-10-30-17:13:16 INFO:  ip = 127.0.0.1
+2022-10-30-17:13:16 INFO:  password = admin
+2022-10-30-17:13:16 INFO:  port = 3306
+2022-10-30-17:13:16 INFO:  username = root
+2022-10-30-17:13:16 INFO:  start to read config.ini
+2022-10-30-17:13:16 INFO:  [device_1]
+2022-10-30-17:13:16 INFO:  ip = 127.0.0.1
+2022-10-30-17:13:16 INFO:  port = 503
+2022-10-30-17:13:16 INFO:  start to read config.ini
+2022-10-30-17:13:16 INFO:  [device_2]
+2022-10-30-17:13:16 INFO:  ip = 192.168.1.25
+2022-10-30-17:13:16 INFO:  port = 502
+2022-10-30-17:13:16 INFO:  -----------------------------------
+2022-10-30-17:14:26 INFO:  -----------------------------------
+2022-10-30-17:14:26 INFO:  start to read config.ini
+2022-10-30-17:14:26 INFO:  [database]
+2022-10-30-17:14:26 INFO:  database_name = cvd_data
+2022-10-30-17:14:26 INFO:  ip = 127.0.0.1
+2022-10-30-17:14:26 INFO:  password = admin
+2022-10-30-17:14:26 INFO:  port = 3306
+2022-10-30-17:14:26 INFO:  username = root
+2022-10-30-17:14:26 INFO:  start to read config.ini
+2022-10-30-17:14:26 INFO:  [device_1]
+2022-10-30-17:14:26 INFO:  ip = 127.0.0.1
+2022-10-30-17:14:26 INFO:  port = 503
+2022-10-30-17:14:26 INFO:  start to read config.ini
+2022-10-30-17:14:26 INFO:  [device_2]
+2022-10-30-17:14:26 INFO:  ip = 192.168.1.25
+2022-10-30-17:14:26 INFO:  port = 502
+2022-10-30-17:14:26 INFO:  -----------------------------------
+2022-10-30-17:45:20 INFO:  -----------------------------------
+2022-10-30-17:45:20 INFO:  start to read config.ini
+2022-10-30-17:45:20 INFO:  [database]
+2022-10-30-17:45:20 INFO:  database_name = cvd_data
+2022-10-30-17:45:20 INFO:  ip = 127.0.0.1
+2022-10-30-17:45:20 INFO:  password = admin
+2022-10-30-17:45:20 INFO:  port = 3306
+2022-10-30-17:45:20 INFO:  username = root
+2022-10-30-17:45:20 INFO:  start to read config.ini
+2022-10-30-17:45:20 INFO:  [device_1]
+2022-10-30-17:45:20 INFO:  ip = 127.0.0.1
+2022-10-30-17:45:20 INFO:  port = 503
+2022-10-30-17:45:20 INFO:  start to read config.ini
+2022-10-30-17:45:20 INFO:  [device_2]
+2022-10-30-17:45:20 INFO:  ip = 192.168.1.25
+2022-10-30-17:45:20 INFO:  port = 502
+2022-10-30-17:45:20 INFO:  -----------------------------------
+2022-10-30-17:45:54 INFO:  -----------------------------------
+2022-10-30-17:45:54 INFO:  start to read config.ini
+2022-10-30-17:45:54 INFO:  [database]
+2022-10-30-17:45:54 INFO:  database_name = cvd_data
+2022-10-30-17:45:54 INFO:  ip = 127.0.0.1
+2022-10-30-17:45:54 INFO:  password = admin
+2022-10-30-17:45:54 INFO:  port = 3306
+2022-10-30-17:45:54 INFO:  username = root
+2022-10-30-17:45:54 INFO:  start to read config.ini
+2022-10-30-17:45:54 INFO:  [device_1]
+2022-10-30-17:45:54 INFO:  ip = 127.0.0.1
+2022-10-30-17:45:54 INFO:  port = 503
+2022-10-30-17:45:54 INFO:  start to read config.ini
+2022-10-30-17:45:54 INFO:  [device_2]
+2022-10-30-17:45:54 INFO:  ip = 192.168.1.25
+2022-10-30-17:45:54 INFO:  port = 502
+2022-10-30-17:45:54 INFO:  -----------------------------------
+2022-10-30-18:04:06 INFO:  -----------------------------------
+2022-10-30-18:04:06 INFO:  start to read config.ini
+2022-10-30-18:04:06 INFO:  [database]
+2022-10-30-18:04:06 INFO:  database_name = cvd_data
+2022-10-30-18:04:06 INFO:  ip = 127.0.0.1
+2022-10-30-18:04:06 INFO:  password = admin
+2022-10-30-18:04:06 INFO:  port = 3306
+2022-10-30-18:04:06 INFO:  username = root
+2022-10-30-18:04:06 INFO:  start to read config.ini
+2022-10-30-18:04:06 INFO:  [device_1]
+2022-10-30-18:04:06 INFO:  ip = 127.0.0.1
+2022-10-30-18:04:06 INFO:  port = 503
+2022-10-30-18:04:06 INFO:  start to read config.ini
+2022-10-30-18:04:06 INFO:  [device_2]
+2022-10-30-18:04:06 INFO:  ip = 192.168.1.25
+2022-10-30-18:04:06 INFO:  port = 502
+2022-10-30-18:04:06 INFO:  -----------------------------------
+2022-10-30-18:04:49 INFO:  -----------------------------------
+2022-10-30-18:04:49 INFO:  start to read config.ini
+2022-10-30-18:04:49 INFO:  [database]
+2022-10-30-18:04:49 INFO:  database_name = cvd_data
+2022-10-30-18:04:49 INFO:  ip = 127.0.0.1
+2022-10-30-18:04:49 INFO:  password = admin
+2022-10-30-18:04:49 INFO:  port = 3306
+2022-10-30-18:04:49 INFO:  username = root
+2022-10-30-18:04:49 INFO:  start to read config.ini
+2022-10-30-18:04:49 INFO:  [device_1]
+2022-10-30-18:04:49 INFO:  ip = 127.0.0.1
+2022-10-30-18:04:49 INFO:  port = 503
+2022-10-30-18:04:49 INFO:  start to read config.ini
+2022-10-30-18:04:49 INFO:  [device_2]
+2022-10-30-18:04:49 INFO:  ip = 192.168.1.25
+2022-10-30-18:04:49 INFO:  port = 502
+2022-10-30-18:04:49 INFO:  -----------------------------------
+2022-10-30-18:04:57 INFO:  -----------------------------------
+2022-10-30-18:04:57 INFO:  start to read config.ini
+2022-10-30-18:04:57 INFO:  [database]
+2022-10-30-18:04:57 INFO:  database_name = cvd_data
+2022-10-30-18:04:57 INFO:  ip = 127.0.0.1
+2022-10-30-18:04:57 INFO:  password = admin
+2022-10-30-18:04:57 INFO:  port = 3306
+2022-10-30-18:04:57 INFO:  username = root
+2022-10-30-18:04:57 INFO:  start to read config.ini
+2022-10-30-18:04:57 INFO:  [device_1]
+2022-10-30-18:04:57 INFO:  ip = 127.0.0.1
+2022-10-30-18:04:57 INFO:  port = 503
+2022-10-30-18:04:57 INFO:  start to read config.ini
+2022-10-30-18:04:57 INFO:  [device_2]
+2022-10-30-18:04:57 INFO:  ip = 192.168.1.25
+2022-10-30-18:04:57 INFO:  port = 502
+2022-10-30-18:04:57 INFO:  -----------------------------------
+2022-10-30-18:05:09 INFO:  -----------------------------------
+2022-10-30-18:05:09 INFO:  start to read config.ini
+2022-10-30-18:05:09 INFO:  [database]
+2022-10-30-18:05:09 INFO:  database_name = cvd_data
+2022-10-30-18:05:09 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:09 INFO:  password = admin
+2022-10-30-18:05:09 INFO:  port = 3306
+2022-10-30-18:05:09 INFO:  username = root
+2022-10-30-18:05:09 INFO:  start to read config.ini
+2022-10-30-18:05:09 INFO:  [device_1]
+2022-10-30-18:05:09 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:09 INFO:  port = 503
+2022-10-30-18:05:09 INFO:  start to read config.ini
+2022-10-30-18:05:09 INFO:  [device_2]
+2022-10-30-18:05:09 INFO:  ip = 192.168.1.25
+2022-10-30-18:05:09 INFO:  port = 502
+2022-10-30-18:05:09 INFO:  -----------------------------------
+2022-10-30-18:05:18 INFO:  -----------------------------------
+2022-10-30-18:05:18 INFO:  start to read config.ini
+2022-10-30-18:05:18 INFO:  [database]
+2022-10-30-18:05:18 INFO:  database_name = cvd_data
+2022-10-30-18:05:18 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:18 INFO:  password = admin
+2022-10-30-18:05:18 INFO:  port = 3306
+2022-10-30-18:05:18 INFO:  username = root
+2022-10-30-18:05:18 INFO:  start to read config.ini
+2022-10-30-18:05:18 INFO:  [device_1]
+2022-10-30-18:05:18 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:18 INFO:  port = 503
+2022-10-30-18:05:18 INFO:  start to read config.ini
+2022-10-30-18:05:18 INFO:  [device_2]
+2022-10-30-18:05:18 INFO:  ip = 192.168.1.25
+2022-10-30-18:05:18 INFO:  port = 502
+2022-10-30-18:05:18 INFO:  -----------------------------------
+2022-10-30-18:05:29 INFO:  -----------------------------------
+2022-10-30-18:05:29 INFO:  start to read config.ini
+2022-10-30-18:05:29 INFO:  [database]
+2022-10-30-18:05:29 INFO:  database_name = cvd_data
+2022-10-30-18:05:29 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:29 INFO:  password = admin
+2022-10-30-18:05:29 INFO:  port = 3306
+2022-10-30-18:05:29 INFO:  username = root
+2022-10-30-18:05:29 INFO:  start to read config.ini
+2022-10-30-18:05:29 INFO:  [device_1]
+2022-10-30-18:05:29 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:29 INFO:  port = 503
+2022-10-30-18:05:29 INFO:  start to read config.ini
+2022-10-30-18:05:29 INFO:  [device_2]
+2022-10-30-18:05:29 INFO:  ip = 192.168.1.25
+2022-10-30-18:05:29 INFO:  port = 502
+2022-10-30-18:05:29 INFO:  -----------------------------------
+2022-10-30-18:05:53 INFO:  -----------------------------------
+2022-10-30-18:05:53 INFO:  start to read config.ini
+2022-10-30-18:05:53 INFO:  [database]
+2022-10-30-18:05:53 INFO:  database_name = cvd_data
+2022-10-30-18:05:53 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:53 INFO:  password = admin
+2022-10-30-18:05:53 INFO:  port = 3306
+2022-10-30-18:05:53 INFO:  username = root
+2022-10-30-18:05:53 INFO:  start to read config.ini
+2022-10-30-18:05:53 INFO:  [device_1]
+2022-10-30-18:05:53 INFO:  ip = 127.0.0.1
+2022-10-30-18:05:53 INFO:  port = 503
+2022-10-30-18:05:53 INFO:  start to read config.ini
+2022-10-30-18:05:53 INFO:  [device_2]
+2022-10-30-18:05:53 INFO:  ip = 192.168.1.25
+2022-10-30-18:05:53 INFO:  port = 502
+2022-10-30-18:05:53 INFO:  -----------------------------------
+2022-10-30-18:05:53 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:07:09 INFO:  -----------------------------------
+2022-10-30-18:07:09 INFO:  start to read config.ini
+2022-10-30-18:07:09 INFO:  [database]
+2022-10-30-18:07:09 INFO:  database_name = cvd_data
+2022-10-30-18:07:09 INFO:  ip = 127.0.0.1
+2022-10-30-18:07:09 INFO:  password = admin
+2022-10-30-18:07:09 INFO:  port = 3306
+2022-10-30-18:07:09 INFO:  username = root
+2022-10-30-18:07:09 INFO:  start to read config.ini
+2022-10-30-18:07:09 INFO:  [device_1]
+2022-10-30-18:07:09 INFO:  ip = 127.0.0.1
+2022-10-30-18:07:09 INFO:  port = 503
+2022-10-30-18:07:09 INFO:  start to read config.ini
+2022-10-30-18:07:09 INFO:  [device_2]
+2022-10-30-18:07:09 INFO:  ip = 192.168.1.25
+2022-10-30-18:07:09 INFO:  port = 502
+2022-10-30-18:07:09 INFO:  -----------------------------------
+2022-10-30-18:07:09 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:07:09 INFO:  try to setup connection withdevice_1
+2022-10-30-18:07:09 ERROR: failed to setup connection withdevice_1
+2022-10-30-18:13:04 INFO:  -----------------------------------
+2022-10-30-18:13:04 INFO:  start to read config.ini
+2022-10-30-18:13:04 INFO:  [database]
+2022-10-30-18:13:04 INFO:  database_name = cvd_data
+2022-10-30-18:13:04 INFO:  ip = 127.0.0.1
+2022-10-30-18:13:04 INFO:  password = admin
+2022-10-30-18:13:04 INFO:  port = 3306
+2022-10-30-18:13:04 INFO:  username = root
+2022-10-30-18:13:04 INFO:  start to read config.ini
+2022-10-30-18:13:04 INFO:  [device_1]
+2022-10-30-18:13:04 INFO:  ip = 127.0.0.1
+2022-10-30-18:13:04 INFO:  port = 503
+2022-10-30-18:13:04 INFO:  start to read config.ini
+2022-10-30-18:13:04 INFO:  [device_2]
+2022-10-30-18:13:04 INFO:  ip = 192.168.1.25
+2022-10-30-18:13:04 INFO:  port = 502
+2022-10-30-18:13:04 INFO:  -----------------------------------
+2022-10-30-18:13:04 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:13:04 INFO:  try to setup connection with device_1
+2022-10-30-18:13:04 ERROR: failed to setup connection with device_1
+2022-10-30-18:13:11 INFO:  -----------------------------------
+2022-10-30-18:13:11 INFO:  start to read config.ini
+2022-10-30-18:13:11 INFO:  [database]
+2022-10-30-18:13:11 INFO:  database_name = cvd_data
+2022-10-30-18:13:11 INFO:  ip = 127.0.0.1
+2022-10-30-18:13:11 INFO:  password = admin
+2022-10-30-18:13:11 INFO:  port = 3306
+2022-10-30-18:13:11 INFO:  username = root
+2022-10-30-18:13:11 INFO:  start to read config.ini
+2022-10-30-18:13:11 INFO:  [device_1]
+2022-10-30-18:13:11 INFO:  ip = 127.0.0.1
+2022-10-30-18:13:11 INFO:  port = 503
+2022-10-30-18:13:11 INFO:  start to read config.ini
+2022-10-30-18:13:11 INFO:  [device_2]
+2022-10-30-18:13:11 INFO:  ip = 192.168.1.25
+2022-10-30-18:13:11 INFO:  port = 502
+2022-10-30-18:13:11 INFO:  -----------------------------------
+2022-10-30-18:13:11 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:13:11 INFO:  try to setup connection with device_1
+2022-10-30-18:13:11 ERROR: failed to setup connection with device_1
+2022-10-30-18:13:33 INFO:  -----------------------------------
+2022-10-30-18:13:33 INFO:  start to read config.ini
+2022-10-30-18:13:33 INFO:  [database]
+2022-10-30-18:13:33 INFO:  database_name = cvd_data
+2022-10-30-18:13:33 INFO:  ip = 127.0.0.1
+2022-10-30-18:13:33 INFO:  password = admin
+2022-10-30-18:13:33 INFO:  port = 3306
+2022-10-30-18:13:33 INFO:  username = root
+2022-10-30-18:13:33 INFO:  start to read config.ini
+2022-10-30-18:13:33 INFO:  [device_1]
+2022-10-30-18:13:33 INFO:  ip = 127.0.0.1
+2022-10-30-18:13:33 INFO:  port = 503
+2022-10-30-18:13:33 INFO:  start to read config.ini
+2022-10-30-18:13:33 INFO:  [device_2]
+2022-10-30-18:13:33 INFO:  ip = 192.168.1.25
+2022-10-30-18:13:33 INFO:  port = 502
+2022-10-30-18:13:33 INFO:  -----------------------------------
+2022-10-30-18:13:33 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:13:33 INFO:  try to setup connection with device_1
+2022-10-30-18:13:33 ERROR: failed to setup connection with device_1
+2022-10-30-18:14:20 INFO:  -----------------------------------
+2022-10-30-18:14:20 INFO:  start to read config.ini
+2022-10-30-18:14:20 INFO:  [database]
+2022-10-30-18:14:20 INFO:  database_name = cvd_data
+2022-10-30-18:14:20 INFO:  ip = 127.0.0.1
+2022-10-30-18:14:20 INFO:  password = admin
+2022-10-30-18:14:20 INFO:  port = 3306
+2022-10-30-18:14:20 INFO:  username = root
+2022-10-30-18:14:20 INFO:  start to read config.ini
+2022-10-30-18:14:20 INFO:  [device_1]
+2022-10-30-18:14:20 INFO:  ip = 127.0.0.1
+2022-10-30-18:14:20 INFO:  port = 503
+2022-10-30-18:14:20 INFO:  start to read config.ini
+2022-10-30-18:14:20 INFO:  [device_2]
+2022-10-30-18:14:20 INFO:  ip = 192.168.1.25
+2022-10-30-18:14:20 INFO:  port = 502
+2022-10-30-18:14:20 INFO:  -----------------------------------
+2022-10-30-18:14:20 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:14:20 INFO:  try to setup connection with device_1
+2022-10-30-18:14:20 ERROR: failed to setup connection with device_1
+2022-10-30-18:16:09 INFO:  -----------------------------------
+2022-10-30-18:16:09 INFO:  start to read config.ini
+2022-10-30-18:16:09 INFO:  [database]
+2022-10-30-18:16:09 INFO:  database_name = cvd_data
+2022-10-30-18:16:09 INFO:  ip = 127.0.0.1
+2022-10-30-18:16:09 INFO:  password = admin
+2022-10-30-18:16:09 INFO:  port = 3306
+2022-10-30-18:16:09 INFO:  username = root
+2022-10-30-18:16:09 INFO:  start to read config.ini
+2022-10-30-18:16:09 INFO:  [device_1]
+2022-10-30-18:16:09 INFO:  ip = 127.0.0.1
+2022-10-30-18:16:09 INFO:  port = 503
+2022-10-30-18:16:09 INFO:  start to read config.ini
+2022-10-30-18:16:09 INFO:  [device_2]
+2022-10-30-18:16:09 INFO:  ip = 192.168.1.25
+2022-10-30-18:16:09 INFO:  port = 502
+2022-10-30-18:16:09 INFO:  -----------------------------------
+2022-10-30-18:16:09 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:16:09 INFO:  try to setup connection with device_1
+2022-10-30-18:16:09 ERROR: failed to setup connection with device_1
+2022-10-30-18:19:33 INFO:  -----------------------------------
+2022-10-30-18:19:33 INFO:  start to read config.ini
+2022-10-30-18:19:33 INFO:  [database]
+2022-10-30-18:19:33 INFO:  database_name = cvd_data
+2022-10-30-18:19:33 INFO:  ip = 127.0.0.1
+2022-10-30-18:19:33 INFO:  password = admin
+2022-10-30-18:19:33 INFO:  port = 3306
+2022-10-30-18:19:33 INFO:  username = root
+2022-10-30-18:19:33 INFO:  start to read config.ini
+2022-10-30-18:19:33 INFO:  [device_1]
+2022-10-30-18:19:33 INFO:  ip = 127.0.0.1
+2022-10-30-18:19:33 INFO:  port = 503
+2022-10-30-18:19:33 INFO:  start to read config.ini
+2022-10-30-18:19:33 INFO:  [device_2]
+2022-10-30-18:19:33 INFO:  ip = 192.168.1.25
+2022-10-30-18:19:33 INFO:  port = 502
+2022-10-30-18:19:33 INFO:  -----------------------------------
+2022-10-30-18:19:33 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:19:33 INFO:  try to setup connection with device_1
+2022-10-30-18:19:33 ERROR: failed to setup connection with device_1
+2022-10-30-18:19:52 INFO:  -----------------------------------
+2022-10-30-18:19:52 INFO:  start to read config.ini
+2022-10-30-18:19:52 INFO:  [database]
+2022-10-30-18:19:52 INFO:  database_name = cvd_data
+2022-10-30-18:19:52 INFO:  ip = 127.0.0.1
+2022-10-30-18:19:52 INFO:  password = admin
+2022-10-30-18:19:52 INFO:  port = 3306
+2022-10-30-18:19:52 INFO:  username = root
+2022-10-30-18:19:52 INFO:  start to read config.ini
+2022-10-30-18:19:52 INFO:  [device_1]
+2022-10-30-18:19:52 INFO:  ip = 127.0.0.1
+2022-10-30-18:19:52 INFO:  port = 503
+2022-10-30-18:19:52 INFO:  start to read config.ini
+2022-10-30-18:19:52 INFO:  [device_2]
+2022-10-30-18:19:52 INFO:  ip = 192.168.1.25
+2022-10-30-18:19:52 INFO:  port = 502
+2022-10-30-18:19:52 INFO:  -----------------------------------
+2022-10-30-18:19:52 INFO:  try to connect cvd device with param ip=127.0.0.1 port= 503
+2022-10-30-18:19:52 INFO:  try to setup connection with device_1
+2022-10-30-18:19:52 ERROR: failed to setup connection with device_1
+2022-10-30-18:25:07 INFO:  -----------------------------------
+2022-10-30-18:25:07 INFO:  start to read config.ini
+2022-10-30-18:25:07 INFO:  [database]
+2022-10-30-18:25:07 INFO:  database_name = cvd_data
+2022-10-30-18:25:07 INFO:  ip = 127.0.0.1
+2022-10-30-18:25:07 INFO:  password = admin
+2022-10-30-18:25:07 INFO:  port = 3306
+2022-10-30-18:25:07 INFO:  username = root
+2022-10-30-18:25:07 INFO:  start to read config.ini
+2022-10-30-18:25:07 INFO:  [device_1]
+2022-10-30-18:25:07 INFO:  ip = 127.0.0.1
+2022-10-30-18:25:07 INFO:  port = 503
+2022-10-30-18:25:07 INFO:  start to read config.ini
+2022-10-30-18:25:07 INFO:  [device_2]
+2022-10-30-18:25:07 INFO:  ip = 192.168.1.25
+2022-10-30-18:25:07 INFO:  port = 502
+2022-10-30-18:25:07 INFO:  -----------------------------------
+2022-10-30-18:25:07 INFO:  try to connectdevice_1with param ip=127.0.0.1 port=503
+2022-10-30-18:25:07 ERROR: failed to setup connection with device_1
+2022-10-30-18:25:32 INFO:  -----------------------------------
+2022-10-30-18:25:32 INFO:  start to read config.ini
+2022-10-30-18:25:32 INFO:  [database]
+2022-10-30-18:25:32 INFO:  database_name = cvd_data
+2022-10-30-18:25:32 INFO:  ip = 127.0.0.1
+2022-10-30-18:25:32 INFO:  password = admin
+2022-10-30-18:25:32 INFO:  port = 3306
+2022-10-30-18:25:32 INFO:  username = root
+2022-10-30-18:25:32 INFO:  start to read config.ini
+2022-10-30-18:25:32 INFO:  [device_1]
+2022-10-30-18:25:32 INFO:  ip = 127.0.0.1
+2022-10-30-18:25:32 INFO:  port = 503
+2022-10-30-18:25:32 INFO:  start to read config.ini
+2022-10-30-18:25:32 INFO:  [device_2]
+2022-10-30-18:25:32 INFO:  ip = 192.168.1.25
+2022-10-30-18:25:32 INFO:  port = 502
+2022-10-30-18:25:32 INFO:  -----------------------------------
+2022-10-30-18:25:32 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:25:32 ERROR: failed to setup connection with device_1
+2022-10-30-18:29:27 INFO:  -----------------------------------
+2022-10-30-18:29:27 INFO:  start to read config.ini
+2022-10-30-18:29:27 INFO:  [database]
+2022-10-30-18:29:27 INFO:  database_name = cvd_data
+2022-10-30-18:29:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:29:27 INFO:  password = admin
+2022-10-30-18:29:27 INFO:  port = 3306
+2022-10-30-18:29:27 INFO:  username = root
+2022-10-30-18:29:27 INFO:  start to read config.ini
+2022-10-30-18:29:27 INFO:  [device_1]
+2022-10-30-18:29:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:29:27 INFO:  port = 503
+2022-10-30-18:29:27 INFO:  start to read config.ini
+2022-10-30-18:29:27 INFO:  [device_2]
+2022-10-30-18:29:27 INFO:  ip = 192.168.1.25
+2022-10-30-18:29:27 INFO:  port = 502
+2022-10-30-18:29:27 INFO:  -----------------------------------
+2022-10-30-18:29:27 INFO:  try to connect device_2 with param ip=192.168.1.25 port=502
+2022-10-30-18:29:27 ERROR: failed to setup connection with device_2
+2022-10-30-18:29:47 INFO:  -----------------------------------
+2022-10-30-18:29:47 INFO:  start to read config.ini
+2022-10-30-18:29:47 INFO:  [database]
+2022-10-30-18:29:47 INFO:  database_name = cvd_data
+2022-10-30-18:29:47 INFO:  ip = 127.0.0.1
+2022-10-30-18:29:47 INFO:  password = admin
+2022-10-30-18:29:47 INFO:  port = 3306
+2022-10-30-18:29:47 INFO:  username = root
+2022-10-30-18:29:47 INFO:  start to read config.ini
+2022-10-30-18:29:47 INFO:  [device_1]
+2022-10-30-18:29:47 INFO:  ip = 127.0.0.1
+2022-10-30-18:29:47 INFO:  port = 503
+2022-10-30-18:29:47 INFO:  start to read config.ini
+2022-10-30-18:29:47 INFO:  [device_2]
+2022-10-30-18:29:47 INFO:  ip = 192.168.1.25
+2022-10-30-18:29:47 INFO:  port = 502
+2022-10-30-18:29:47 INFO:  -----------------------------------
+2022-10-30-18:29:47 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:29:47 ERROR: failed to setup connection with device_1
+2022-10-30-18:38:57 INFO:  -----------------------------------
+2022-10-30-18:38:57 INFO:  start to read config.ini
+2022-10-30-18:38:57 INFO:  [database]
+2022-10-30-18:38:57 INFO:  database_name = cvd_data
+2022-10-30-18:38:57 INFO:  ip = 127.0.0.1
+2022-10-30-18:38:57 INFO:  password = admin
+2022-10-30-18:38:57 INFO:  port = 3306
+2022-10-30-18:38:57 INFO:  username = root
+2022-10-30-18:38:57 INFO:  start to read config.ini
+2022-10-30-18:38:57 INFO:  [device_1]
+2022-10-30-18:38:57 INFO:  ip = 127.0.0.1
+2022-10-30-18:38:57 INFO:  port = 503
+2022-10-30-18:38:57 INFO:  start to read config.ini
+2022-10-30-18:38:57 INFO:  [device_2]
+2022-10-30-18:38:57 INFO:  ip = 192.168.1.25
+2022-10-30-18:38:57 INFO:  port = 502
+2022-10-30-18:38:57 INFO:  -----------------------------------
+2022-10-30-18:38:57 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:38:57 ERROR: failed to setup connection with device_1
+2022-10-30-18:39:16 INFO:  -----------------------------------
+2022-10-30-18:39:16 INFO:  start to read config.ini
+2022-10-30-18:39:16 INFO:  [database]
+2022-10-30-18:39:16 INFO:  database_name = cvd_data
+2022-10-30-18:39:16 INFO:  ip = 127.0.0.1
+2022-10-30-18:39:16 INFO:  password = admin
+2022-10-30-18:39:16 INFO:  port = 3306
+2022-10-30-18:39:16 INFO:  username = root
+2022-10-30-18:39:16 INFO:  start to read config.ini
+2022-10-30-18:39:16 INFO:  [device_1]
+2022-10-30-18:39:16 INFO:  ip = 127.0.0.1
+2022-10-30-18:39:16 INFO:  port = 503
+2022-10-30-18:39:16 INFO:  start to read config.ini
+2022-10-30-18:39:16 INFO:  [device_2]
+2022-10-30-18:39:16 INFO:  ip = 192.168.1.25
+2022-10-30-18:39:16 INFO:  port = 502
+2022-10-30-18:39:16 INFO:  -----------------------------------
+2022-10-30-18:39:16 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:39:16 ERROR: failed to setup connection with device_1
+2022-10-30-18:39:26 INFO:  -----------------------------------
+2022-10-30-18:39:26 INFO:  start to read config.ini
+2022-10-30-18:39:26 INFO:  [database]
+2022-10-30-18:39:26 INFO:  database_name = cvd_data
+2022-10-30-18:39:26 INFO:  ip = 127.0.0.1
+2022-10-30-18:39:26 INFO:  password = admin
+2022-10-30-18:39:26 INFO:  port = 3306
+2022-10-30-18:39:26 INFO:  username = root
+2022-10-30-18:39:26 INFO:  start to read config.ini
+2022-10-30-18:39:26 INFO:  [device_1]
+2022-10-30-18:39:26 INFO:  ip = 127.0.0.1
+2022-10-30-18:39:26 INFO:  port = 503
+2022-10-30-18:39:26 INFO:  start to read config.ini
+2022-10-30-18:39:26 INFO:  [device_2]
+2022-10-30-18:39:26 INFO:  ip = 192.168.1.25
+2022-10-30-18:39:26 INFO:  port = 502
+2022-10-30-18:39:26 INFO:  -----------------------------------
+2022-10-30-18:39:26 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:39:27 ERROR: failed to setup connection with device_1
+2022-10-30-18:40:27 INFO:  -----------------------------------
+2022-10-30-18:40:27 INFO:  start to read config.ini
+2022-10-30-18:40:27 INFO:  [database]
+2022-10-30-18:40:27 INFO:  database_name = cvd_data
+2022-10-30-18:40:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:40:27 INFO:  password = admin
+2022-10-30-18:40:27 INFO:  port = 3306
+2022-10-30-18:40:27 INFO:  username = root
+2022-10-30-18:40:27 INFO:  start to read config.ini
+2022-10-30-18:40:27 INFO:  [device_1]
+2022-10-30-18:40:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:40:27 INFO:  port = 503
+2022-10-30-18:40:27 INFO:  start to read config.ini
+2022-10-30-18:40:27 INFO:  [device_2]
+2022-10-30-18:40:27 INFO:  ip = 192.168.1.25
+2022-10-30-18:40:27 INFO:  port = 502
+2022-10-30-18:40:27 INFO:  -----------------------------------
+2022-10-30-18:40:27 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:40:27 ERROR: failed to setup connection with device_1
+2022-10-30-18:40:48 INFO:  -----------------------------------
+2022-10-30-18:40:48 INFO:  start to read config.ini
+2022-10-30-18:40:48 INFO:  [database]
+2022-10-30-18:40:48 INFO:  database_name = cvd_data
+2022-10-30-18:40:48 INFO:  ip = 127.0.0.1
+2022-10-30-18:40:48 INFO:  password = admin
+2022-10-30-18:40:48 INFO:  port = 3306
+2022-10-30-18:40:48 INFO:  username = root
+2022-10-30-18:40:48 INFO:  start to read config.ini
+2022-10-30-18:40:48 INFO:  [device_1]
+2022-10-30-18:40:48 INFO:  ip = 127.0.0.1
+2022-10-30-18:40:48 INFO:  port = 503
+2022-10-30-18:40:48 INFO:  start to read config.ini
+2022-10-30-18:40:48 INFO:  [device_2]
+2022-10-30-18:40:48 INFO:  ip = 192.168.1.25
+2022-10-30-18:40:48 INFO:  port = 502
+2022-10-30-18:40:48 INFO:  -----------------------------------
+2022-10-30-18:40:48 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:40:48 ERROR: failed to setup connection with device_1
+2022-10-30-18:41:03 INFO:  -----------------------------------
+2022-10-30-18:41:03 INFO:  start to read config.ini
+2022-10-30-18:41:03 INFO:  [database]
+2022-10-30-18:41:03 INFO:  database_name = cvd_data
+2022-10-30-18:41:03 INFO:  ip = 127.0.0.1
+2022-10-30-18:41:03 INFO:  password = admin
+2022-10-30-18:41:03 INFO:  port = 3306
+2022-10-30-18:41:03 INFO:  username = root
+2022-10-30-18:41:03 INFO:  start to read config.ini
+2022-10-30-18:41:03 INFO:  [device_1]
+2022-10-30-18:41:03 INFO:  ip = 127.0.0.1
+2022-10-30-18:41:03 INFO:  port = 503
+2022-10-30-18:41:03 INFO:  start to read config.ini
+2022-10-30-18:41:03 INFO:  [device_2]
+2022-10-30-18:41:03 INFO:  ip = 192.168.1.25
+2022-10-30-18:41:03 INFO:  port = 502
+2022-10-30-18:41:03 INFO:  -----------------------------------
+2022-10-30-18:41:03 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:41:10 INFO:  -----------------------------------
+2022-10-30-18:41:10 INFO:  start to read config.ini
+2022-10-30-18:41:10 INFO:  [database]
+2022-10-30-18:41:10 INFO:  database_name = cvd_data
+2022-10-30-18:41:10 INFO:  ip = 127.0.0.1
+2022-10-30-18:41:10 INFO:  password = admin
+2022-10-30-18:41:10 INFO:  port = 3306
+2022-10-30-18:41:10 INFO:  username = root
+2022-10-30-18:41:10 INFO:  start to read config.ini
+2022-10-30-18:41:10 INFO:  [device_1]
+2022-10-30-18:41:10 INFO:  ip = 127.0.0.1
+2022-10-30-18:41:10 INFO:  port = 503
+2022-10-30-18:41:10 INFO:  start to read config.ini
+2022-10-30-18:41:10 INFO:  [device_2]
+2022-10-30-18:41:10 INFO:  ip = 192.168.1.25
+2022-10-30-18:41:10 INFO:  port = 502
+2022-10-30-18:41:10 INFO:  -----------------------------------
+2022-10-30-18:41:10 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:41:27 INFO:  -----------------------------------
+2022-10-30-18:41:27 INFO:  start to read config.ini
+2022-10-30-18:41:27 INFO:  [database]
+2022-10-30-18:41:27 INFO:  database_name = cvd_data
+2022-10-30-18:41:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:41:27 INFO:  password = admin
+2022-10-30-18:41:27 INFO:  port = 3306
+2022-10-30-18:41:27 INFO:  username = root
+2022-10-30-18:41:27 INFO:  start to read config.ini
+2022-10-30-18:41:27 INFO:  [device_1]
+2022-10-30-18:41:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:41:27 INFO:  port = 503
+2022-10-30-18:41:27 INFO:  start to read config.ini
+2022-10-30-18:41:27 INFO:  [device_2]
+2022-10-30-18:41:27 INFO:  ip = 192.168.1.25
+2022-10-30-18:41:27 INFO:  port = 502
+2022-10-30-18:41:27 INFO:  -----------------------------------
+2022-10-30-18:41:27 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:42:39 INFO:  -----------------------------------
+2022-10-30-18:42:39 INFO:  start to read config.ini
+2022-10-30-18:42:39 INFO:  [database]
+2022-10-30-18:42:39 INFO:  database_name = cvd_data
+2022-10-30-18:42:39 INFO:  ip = 127.0.0.1
+2022-10-30-18:42:39 INFO:  password = admin
+2022-10-30-18:42:39 INFO:  port = 3306
+2022-10-30-18:42:39 INFO:  username = root
+2022-10-30-18:42:39 INFO:  start to read config.ini
+2022-10-30-18:42:39 INFO:  [device_1]
+2022-10-30-18:42:39 INFO:  ip = 127.0.0.1
+2022-10-30-18:42:39 INFO:  port = 503
+2022-10-30-18:42:39 INFO:  start to read config.ini
+2022-10-30-18:42:39 INFO:  [device_2]
+2022-10-30-18:42:39 INFO:  ip = 192.168.1.25
+2022-10-30-18:42:39 INFO:  port = 502
+2022-10-30-18:42:39 INFO:  -----------------------------------
+2022-10-30-18:42:39 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:42:39 INFO:  try to send modbus data to device_1
+2022-10-30-18:43:04 INFO:  -----------------------------------
+2022-10-30-18:43:04 INFO:  start to read config.ini
+2022-10-30-18:43:04 INFO:  [database]
+2022-10-30-18:43:04 INFO:  database_name = cvd_data
+2022-10-30-18:43:04 INFO:  ip = 127.0.0.1
+2022-10-30-18:43:04 INFO:  password = admin
+2022-10-30-18:43:04 INFO:  port = 3306
+2022-10-30-18:43:04 INFO:  username = root
+2022-10-30-18:43:04 INFO:  start to read config.ini
+2022-10-30-18:43:04 INFO:  [device_1]
+2022-10-30-18:43:04 INFO:  ip = 127.0.0.1
+2022-10-30-18:43:04 INFO:  port = 503
+2022-10-30-18:43:04 INFO:  start to read config.ini
+2022-10-30-18:43:04 INFO:  [device_2]
+2022-10-30-18:43:04 INFO:  ip = 192.168.1.25
+2022-10-30-18:43:04 INFO:  port = 502
+2022-10-30-18:43:04 INFO:  -----------------------------------
+2022-10-30-18:43:04 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:43:04 INFO:  try to send modbus data to device_1
+2022-10-30-18:43:04 INFO:  donedevice_1
+2022-10-30-18:46:02 INFO:  -----------------------------------
+2022-10-30-18:46:02 INFO:  start to read config.ini
+2022-10-30-18:46:02 INFO:  [database]
+2022-10-30-18:46:02 INFO:  database_name = cvd_data
+2022-10-30-18:46:02 INFO:  ip = 127.0.0.1
+2022-10-30-18:46:02 INFO:  password = admin
+2022-10-30-18:46:02 INFO:  port = 3306
+2022-10-30-18:46:02 INFO:  username = root
+2022-10-30-18:46:02 INFO:  start to read config.ini
+2022-10-30-18:46:02 INFO:  [device_1]
+2022-10-30-18:46:02 INFO:  ip = 127.0.0.1
+2022-10-30-18:46:02 INFO:  port = 503
+2022-10-30-18:46:02 INFO:  start to read config.ini
+2022-10-30-18:46:02 INFO:  [device_2]
+2022-10-30-18:46:02 INFO:  ip = 192.168.1.25
+2022-10-30-18:46:02 INFO:  port = 502
+2022-10-30-18:46:02 INFO:  -----------------------------------
+2022-10-30-18:46:02 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:46:02 INFO:  try to send modbus data to device_1
+2022-10-30-18:46:02 INFO:  donedevice_1
+2022-10-30-18:47:18 INFO:  -----------------------------------
+2022-10-30-18:47:18 INFO:  start to read config.ini
+2022-10-30-18:47:18 INFO:  [database]
+2022-10-30-18:47:18 INFO:  database_name = cvd_data
+2022-10-30-18:47:18 INFO:  ip = 127.0.0.1
+2022-10-30-18:47:18 INFO:  password = admin
+2022-10-30-18:47:18 INFO:  port = 3306
+2022-10-30-18:47:18 INFO:  username = root
+2022-10-30-18:47:18 INFO:  start to read config.ini
+2022-10-30-18:47:18 INFO:  [device_1]
+2022-10-30-18:47:18 INFO:  ip = 127.0.0.1
+2022-10-30-18:47:18 INFO:  port = 503
+2022-10-30-18:47:18 INFO:  start to read config.ini
+2022-10-30-18:47:18 INFO:  [device_2]
+2022-10-30-18:47:18 INFO:  ip = 192.168.1.25
+2022-10-30-18:47:18 INFO:  port = 502
+2022-10-30-18:47:18 INFO:  -----------------------------------
+2022-10-30-18:47:18 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:47:18 INFO:  try to send modbus data to device_1
+2022-10-30-18:47:18 INFO:  donedevice_1
+2022-10-30-18:47:30 INFO:  -----------------------------------
+2022-10-30-18:47:30 INFO:  start to read config.ini
+2022-10-30-18:47:30 INFO:  [database]
+2022-10-30-18:47:30 INFO:  database_name = cvd_data
+2022-10-30-18:47:30 INFO:  ip = 127.0.0.1
+2022-10-30-18:47:30 INFO:  password = admin
+2022-10-30-18:47:30 INFO:  port = 3306
+2022-10-30-18:47:30 INFO:  username = root
+2022-10-30-18:47:30 INFO:  start to read config.ini
+2022-10-30-18:47:30 INFO:  [device_1]
+2022-10-30-18:47:30 INFO:  ip = 127.0.0.1
+2022-10-30-18:47:30 INFO:  port = 503
+2022-10-30-18:47:30 INFO:  start to read config.ini
+2022-10-30-18:47:30 INFO:  [device_2]
+2022-10-30-18:47:30 INFO:  ip = 192.168.1.25
+2022-10-30-18:47:30 INFO:  port = 502
+2022-10-30-18:47:30 INFO:  -----------------------------------
+2022-10-30-18:47:30 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:47:30 INFO:  try to send modbus data to device_1
+2022-10-30-18:47:30 INFO:  donedevice_1
+2022-10-30-18:48:27 INFO:  -----------------------------------
+2022-10-30-18:48:27 INFO:  start to read config.ini
+2022-10-30-18:48:27 INFO:  [database]
+2022-10-30-18:48:27 INFO:  database_name = cvd_data
+2022-10-30-18:48:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:48:27 INFO:  password = admin
+2022-10-30-18:48:27 INFO:  port = 3306
+2022-10-30-18:48:27 INFO:  username = root
+2022-10-30-18:48:27 INFO:  start to read config.ini
+2022-10-30-18:48:27 INFO:  [device_1]
+2022-10-30-18:48:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:48:27 INFO:  port = 503
+2022-10-30-18:48:27 INFO:  start to read config.ini
+2022-10-30-18:48:27 INFO:  [device_2]
+2022-10-30-18:48:27 INFO:  ip = 192.168.1.25
+2022-10-30-18:48:27 INFO:  port = 502
+2022-10-30-18:48:27 INFO:  -----------------------------------
+2022-10-30-18:48:27 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:48:27 INFO:  try to send modbus data to device_1
+2022-10-30-18:48:27 INFO:  donedevice_1
+2022-10-30-18:49:50 INFO:  -----------------------------------
+2022-10-30-18:49:50 INFO:  start to read config.ini
+2022-10-30-18:49:50 INFO:  [database]
+2022-10-30-18:49:50 INFO:  database_name = cvd_data
+2022-10-30-18:49:50 INFO:  ip = 127.0.0.1
+2022-10-30-18:49:50 INFO:  password = admin
+2022-10-30-18:49:50 INFO:  port = 3306
+2022-10-30-18:49:50 INFO:  username = root
+2022-10-30-18:49:50 INFO:  start to read config.ini
+2022-10-30-18:49:50 INFO:  [device_1]
+2022-10-30-18:49:50 INFO:  ip = 127.0.0.1
+2022-10-30-18:49:50 INFO:  port = 503
+2022-10-30-18:49:50 INFO:  start to read config.ini
+2022-10-30-18:49:50 INFO:  [device_2]
+2022-10-30-18:49:50 INFO:  ip = 192.168.1.25
+2022-10-30-18:49:50 INFO:  port = 502
+2022-10-30-18:49:50 INFO:  -----------------------------------
+2022-10-30-18:49:50 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:49:50 INFO:  try to send modbus data to device_1
+2022-10-30-18:49:50 INFO:  donedevice_1
+2022-10-30-18:50:26 INFO:  -----------------------------------
+2022-10-30-18:50:26 INFO:  start to read config.ini
+2022-10-30-18:50:26 INFO:  [database]
+2022-10-30-18:50:26 INFO:  database_name = cvd_data
+2022-10-30-18:50:26 INFO:  ip = 127.0.0.1
+2022-10-30-18:50:26 INFO:  password = admin
+2022-10-30-18:50:26 INFO:  port = 3306
+2022-10-30-18:50:26 INFO:  username = root
+2022-10-30-18:50:26 INFO:  start to read config.ini
+2022-10-30-18:50:26 INFO:  [device_1]
+2022-10-30-18:50:26 INFO:  ip = 127.0.0.1
+2022-10-30-18:50:26 INFO:  port = 503
+2022-10-30-18:50:26 INFO:  start to read config.ini
+2022-10-30-18:50:26 INFO:  [device_2]
+2022-10-30-18:50:26 INFO:  ip = 192.168.1.25
+2022-10-30-18:50:26 INFO:  port = 502
+2022-10-30-18:50:26 INFO:  -----------------------------------
+2022-10-30-18:50:26 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:50:26 INFO:  try to send modbus data to device_1
+2022-10-30-18:50:26 INFO:  donedevice_1
+2022-10-30-18:50:46 INFO:  -----------------------------------
+2022-10-30-18:50:46 INFO:  start to read config.ini
+2022-10-30-18:50:46 INFO:  [database]
+2022-10-30-18:50:46 INFO:  database_name = cvd_data
+2022-10-30-18:50:46 INFO:  ip = 127.0.0.1
+2022-10-30-18:50:46 INFO:  password = admin
+2022-10-30-18:50:46 INFO:  port = 3306
+2022-10-30-18:50:46 INFO:  username = root
+2022-10-30-18:50:46 INFO:  start to read config.ini
+2022-10-30-18:50:46 INFO:  [device_1]
+2022-10-30-18:50:46 INFO:  ip = 127.0.0.1
+2022-10-30-18:50:46 INFO:  port = 503
+2022-10-30-18:50:46 INFO:  start to read config.ini
+2022-10-30-18:50:46 INFO:  [device_2]
+2022-10-30-18:50:46 INFO:  ip = 192.168.1.25
+2022-10-30-18:50:46 INFO:  port = 502
+2022-10-30-18:50:46 INFO:  -----------------------------------
+2022-10-30-18:50:46 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:50:46 INFO:  try to send modbus data to device_1
+2022-10-30-18:50:46 INFO:  donedevice_1
+2022-10-30-18:52:27 INFO:  -----------------------------------
+2022-10-30-18:52:27 INFO:  start to read config.ini
+2022-10-30-18:52:27 INFO:  [database]
+2022-10-30-18:52:27 INFO:  database_name = cvd_data
+2022-10-30-18:52:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:52:27 INFO:  password = admin
+2022-10-30-18:52:27 INFO:  port = 3306
+2022-10-30-18:52:27 INFO:  username = root
+2022-10-30-18:52:27 INFO:  start to read config.ini
+2022-10-30-18:52:27 INFO:  [device_1]
+2022-10-30-18:52:27 INFO:  ip = 127.0.0.1
+2022-10-30-18:52:27 INFO:  port = 503
+2022-10-30-18:52:27 INFO:  start to read config.ini
+2022-10-30-18:52:27 INFO:  [device_2]
+2022-10-30-18:52:27 INFO:  ip = 192.168.1.25
+2022-10-30-18:52:27 INFO:  port = 502
+2022-10-30-18:52:27 INFO:  -----------------------------------
+2022-10-30-18:52:27 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-18:52:27 INFO:  try to send modbus data to device_1
+2022-10-30-18:52:31 INFO:  donedevice_1
+2022-10-30-19:02:33 INFO:  -----------------------------------
+2022-10-30-19:02:33 INFO:  start to read config.ini
+2022-10-30-19:02:33 INFO:  [database]
+2022-10-30-19:02:33 INFO:  database_name = cvd_data
+2022-10-30-19:02:33 INFO:  ip = 127.0.0.1
+2022-10-30-19:02:33 INFO:  password = admin
+2022-10-30-19:02:33 INFO:  port = 3306
+2022-10-30-19:02:33 INFO:  username = root
+2022-10-30-19:02:33 INFO:  start to read config.ini
+2022-10-30-19:02:33 INFO:  [device_1]
+2022-10-30-19:02:33 INFO:  ip = 127.0.0.1
+2022-10-30-19:02:33 INFO:  port = 503
+2022-10-30-19:02:33 INFO:  start to read config.ini
+2022-10-30-19:02:33 INFO:  [device_2]
+2022-10-30-19:02:33 INFO:  ip = 192.168.1.25
+2022-10-30-19:02:33 INFO:  port = 502
+2022-10-30-19:02:33 INFO:  -----------------------------------
+2022-10-30-19:02:33 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-19:02:33 INFO:  try to send modbus data to device_1
+2022-10-30-19:02:33 INFO:  donedevice_1
+2022-10-30-19:30:38 INFO:  -----------------------------------
+2022-10-30-19:30:38 INFO:  start to read config.ini
+2022-10-30-19:30:38 INFO:  [database]
+2022-10-30-19:30:38 INFO:  database_name = cvd_data
+2022-10-30-19:30:38 INFO:  ip = 127.0.0.1
+2022-10-30-19:30:38 INFO:  password = admin
+2022-10-30-19:30:38 INFO:  port = 3306
+2022-10-30-19:30:38 INFO:  username = root
+2022-10-30-19:30:38 INFO:  start to read config.ini
+2022-10-30-19:30:38 INFO:  [device_1]
+2022-10-30-19:30:38 INFO:  ip = 127.0.0.1
+2022-10-30-19:30:38 INFO:  port = 503
+2022-10-30-19:30:38 INFO:  start to read config.ini
+2022-10-30-19:30:38 INFO:  [device_2]
+2022-10-30-19:30:38 INFO:  ip = 192.168.1.25
+2022-10-30-19:30:38 INFO:  port = 502
+2022-10-30-19:30:38 INFO:  -----------------------------------
+2022-10-30-19:30:38 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-19:30:38 INFO:  try to send modbus data to device_1
+2022-10-30-19:30:38 INFO:  donedevice_1
+2022-10-30-19:34:43 INFO:  -----------------------------------
+2022-10-30-19:34:43 INFO:  start to read config.ini
+2022-10-30-19:34:43 INFO:  [database]
+2022-10-30-19:34:43 INFO:  database_name = cvd_data
+2022-10-30-19:34:43 INFO:  ip = 127.0.0.1
+2022-10-30-19:34:43 INFO:  password = admin
+2022-10-30-19:34:43 INFO:  port = 3306
+2022-10-30-19:34:43 INFO:  username = root
+2022-10-30-19:34:43 INFO:  start to read config.ini
+2022-10-30-19:34:43 INFO:  [device_1]
+2022-10-30-19:34:43 INFO:  ip = 127.0.0.1
+2022-10-30-19:34:43 INFO:  port = 503
+2022-10-30-19:34:43 INFO:  start to read config.ini
+2022-10-30-19:34:43 INFO:  [device_2]
+2022-10-30-19:34:43 INFO:  ip = 192.168.1.25
+2022-10-30-19:34:43 INFO:  port = 502
+2022-10-30-19:34:43 INFO:  -----------------------------------
+2022-10-30-19:34:43 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-19:34:43 INFO:  try to send modbus data to device_1
+2022-10-30-19:34:43 INFO:  donedevice_1
+2022-10-30-19:47:24 INFO:  -----------------------------------
+2022-10-30-19:47:24 INFO:  start to read config.ini
+2022-10-30-19:47:24 INFO:  [database]
+2022-10-30-19:47:24 INFO:  database_name = cvd_data
+2022-10-30-19:47:24 INFO:  ip = 127.0.0.1
+2022-10-30-19:47:24 INFO:  password = admin
+2022-10-30-19:47:24 INFO:  port = 3306
+2022-10-30-19:47:24 INFO:  username = root
+2022-10-30-19:47:24 INFO:  start to read config.ini
+2022-10-30-19:47:24 INFO:  [device_1]
+2022-10-30-19:47:24 INFO:  ip = 127.0.0.1
+2022-10-30-19:47:24 INFO:  port = 503
+2022-10-30-19:47:24 INFO:  start to read config.ini
+2022-10-30-19:47:24 INFO:  [device_2]
+2022-10-30-19:47:24 INFO:  ip = 192.168.1.25
+2022-10-30-19:47:24 INFO:  port = 502
+2022-10-30-19:47:24 INFO:  -----------------------------------
+2022-10-30-19:47:24 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-19:47:24 INFO:  try to send modbus data to device_1
+2022-10-30-19:47:24 INFO:  donedevice_1
+2022-10-30-19:49:50 INFO:  -----------------------------------
+2022-10-30-19:49:50 INFO:  start to read config.ini
+2022-10-30-19:49:50 INFO:  [database]
+2022-10-30-19:49:50 INFO:  database_name = cvd_data
+2022-10-30-19:49:50 INFO:  ip = 127.0.0.1
+2022-10-30-19:49:50 INFO:  password = admin
+2022-10-30-19:49:50 INFO:  port = 3306
+2022-10-30-19:49:50 INFO:  username = root
+2022-10-30-19:49:50 INFO:  start to read config.ini
+2022-10-30-19:49:50 INFO:  [device_1]
+2022-10-30-19:49:50 INFO:  ip = 127.0.0.1
+2022-10-30-19:49:50 INFO:  port = 503
+2022-10-30-19:49:50 INFO:  start to read config.ini
+2022-10-30-19:49:50 INFO:  [device_2]
+2022-10-30-19:49:50 INFO:  ip = 192.168.1.25
+2022-10-30-19:49:50 INFO:  port = 502
+2022-10-30-19:49:50 INFO:  -----------------------------------
+2022-10-30-19:49:50 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-19:49:50 INFO:  try to send modbus data to device_1
+2022-10-30-19:49:55 INFO:  donedevice_1
+2022-10-30-19:52:18 INFO:  -----------------------------------
+2022-10-30-19:52:18 INFO:  start to read config.ini
+2022-10-30-19:52:18 INFO:  [database]
+2022-10-30-19:52:18 INFO:  database_name = cvd_data
+2022-10-30-19:52:18 INFO:  ip = 127.0.0.1
+2022-10-30-19:52:18 INFO:  password = admin
+2022-10-30-19:52:18 INFO:  port = 3306
+2022-10-30-19:52:18 INFO:  username = root
+2022-10-30-19:52:18 INFO:  start to read config.ini
+2022-10-30-19:52:18 INFO:  [device_1]
+2022-10-30-19:52:18 INFO:  ip = 127.0.0.1
+2022-10-30-19:52:18 INFO:  port = 503
+2022-10-30-19:52:18 INFO:  start to read config.ini
+2022-10-30-19:52:18 INFO:  [device_2]
+2022-10-30-19:52:18 INFO:  ip = 192.168.1.25
+2022-10-30-19:52:18 INFO:  port = 502
+2022-10-30-19:52:18 INFO:  -----------------------------------
+2022-10-30-19:52:18 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-19:52:18 INFO:  try to send modbus data to device_1
+2022-10-30-19:52:23 INFO:  donedevice_1
+2022-10-30-21:26:16 INFO:  -----------------------------------
+2022-10-30-21:26:16 INFO:  start to read config.ini
+2022-10-30-21:26:16 INFO:  [database]
+2022-10-30-21:26:16 INFO:  database_name = cvd_data
+2022-10-30-21:26:16 INFO:  ip = 127.0.0.1
+2022-10-30-21:26:16 INFO:  password = admin
+2022-10-30-21:26:16 INFO:  port = 3306
+2022-10-30-21:26:16 INFO:  username = root
+2022-10-30-21:26:16 INFO:  start to read config.ini
+2022-10-30-21:26:16 INFO:  [device_1]
+2022-10-30-21:26:16 INFO:  ip = 127.0.0.1
+2022-10-30-21:26:16 INFO:  port = 503
+2022-10-30-21:26:16 INFO:  start to read config.ini
+2022-10-30-21:26:16 INFO:  [device_2]
+2022-10-30-21:26:16 INFO:  ip = 192.168.1.25
+2022-10-30-21:26:16 INFO:  port = 502
+2022-10-30-21:26:16 INFO:  -----------------------------------
+2022-10-30-21:26:56 INFO:  -----------------------------------
+2022-10-30-21:26:56 INFO:  start to read config.ini
+2022-10-30-21:26:56 INFO:  [database]
+2022-10-30-21:26:56 INFO:  database_name = cvd_data
+2022-10-30-21:26:56 INFO:  ip = 127.0.0.1
+2022-10-30-21:26:56 INFO:  password = admin
+2022-10-30-21:26:56 INFO:  port = 3306
+2022-10-30-21:26:56 INFO:  username = root
+2022-10-30-21:26:56 INFO:  start to read config.ini
+2022-10-30-21:26:56 INFO:  [device_1]
+2022-10-30-21:26:56 INFO:  ip = 127.0.0.1
+2022-10-30-21:26:56 INFO:  port = 503
+2022-10-30-21:26:56 INFO:  start to read config.ini
+2022-10-30-21:26:56 INFO:  [device_2]
+2022-10-30-21:26:56 INFO:  ip = 192.168.1.25
+2022-10-30-21:26:56 INFO:  port = 502
+2022-10-30-21:26:56 INFO:  -----------------------------------
+2022-10-30-21:27:39 INFO:  -----------------------------------
+2022-10-30-21:27:39 INFO:  start to read config.ini
+2022-10-30-21:27:39 INFO:  [database]
+2022-10-30-21:27:39 INFO:  database_name = cvd_data
+2022-10-30-21:27:39 INFO:  ip = 127.0.0.1
+2022-10-30-21:27:39 INFO:  password = admin
+2022-10-30-21:27:39 INFO:  port = 3306
+2022-10-30-21:27:39 INFO:  username = root
+2022-10-30-21:27:39 INFO:  start to read config.ini
+2022-10-30-21:27:39 INFO:  [device_1]
+2022-10-30-21:27:39 INFO:  ip = 127.0.0.1
+2022-10-30-21:27:39 INFO:  port = 503
+2022-10-30-21:27:39 INFO:  start to read config.ini
+2022-10-30-21:27:39 INFO:  [device_2]
+2022-10-30-21:27:39 INFO:  ip = 192.168.1.25
+2022-10-30-21:27:39 INFO:  port = 502
+2022-10-30-21:27:39 INFO:  -----------------------------------
+2022-10-30-21:27:39 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-21:27:39 INFO:  try to send modbus data to device_1
+2022-10-30-21:27:39 INFO:  donedevice_1
+2022-10-30-21:27:54 INFO:  -----------------------------------
+2022-10-30-21:27:54 INFO:  start to read config.ini
+2022-10-30-21:27:54 INFO:  [database]
+2022-10-30-21:27:54 INFO:  database_name = cvd_data
+2022-10-30-21:27:54 INFO:  ip = 127.0.0.1
+2022-10-30-21:27:54 INFO:  password = admin
+2022-10-30-21:27:54 INFO:  port = 3306
+2022-10-30-21:27:54 INFO:  username = root
+2022-10-30-21:27:54 INFO:  start to read config.ini
+2022-10-30-21:27:54 INFO:  [device_1]
+2022-10-30-21:27:54 INFO:  ip = 127.0.0.1
+2022-10-30-21:27:54 INFO:  port = 503
+2022-10-30-21:27:54 INFO:  start to read config.ini
+2022-10-30-21:27:54 INFO:  [device_2]
+2022-10-30-21:27:54 INFO:  ip = 192.168.1.25
+2022-10-30-21:27:54 INFO:  port = 502
+2022-10-30-21:27:54 INFO:  -----------------------------------
+2022-10-30-21:27:54 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-21:27:54 INFO:  try to send modbus data to device_1
+2022-10-30-21:27:54 INFO:  donedevice_1
+2022-10-30-22:21:30 INFO:  -----------------------------------
+2022-10-30-22:21:30 INFO:  start to read config.ini
+2022-10-30-22:21:30 INFO:  [database]
+2022-10-30-22:21:30 INFO:  database_name = cvd_data
+2022-10-30-22:21:30 INFO:  ip = 127.0.0.1
+2022-10-30-22:21:30 INFO:  password = admin
+2022-10-30-22:21:30 INFO:  port = 3306
+2022-10-30-22:21:30 INFO:  username = root
+2022-10-30-22:21:30 INFO:  start to read config.ini
+2022-10-30-22:21:30 INFO:  [device_1]
+2022-10-30-22:21:30 INFO:  ip = 127.0.0.1
+2022-10-30-22:21:30 INFO:  port = 503
+2022-10-30-22:21:30 INFO:  start to read config.ini
+2022-10-30-22:21:30 INFO:  [device_2]
+2022-10-30-22:21:30 INFO:  ip = 192.168.1.25
+2022-10-30-22:21:30 INFO:  port = 502
+2022-10-30-22:21:30 INFO:  -----------------------------------
+2022-10-30-22:21:30 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-22:21:30 INFO:  try to send modbus data to device_1
+2022-10-30-22:21:46 INFO:  -----------------------------------
+2022-10-30-22:21:46 INFO:  start to read config.ini
+2022-10-30-22:21:46 INFO:  [database]
+2022-10-30-22:21:46 INFO:  database_name = cvd_data
+2022-10-30-22:21:46 INFO:  ip = 127.0.0.1
+2022-10-30-22:21:46 INFO:  password = admin
+2022-10-30-22:21:46 INFO:  port = 3306
+2022-10-30-22:21:46 INFO:  username = root
+2022-10-30-22:21:46 INFO:  start to read config.ini
+2022-10-30-22:21:46 INFO:  [device_1]
+2022-10-30-22:21:46 INFO:  ip = 127.0.0.1
+2022-10-30-22:21:46 INFO:  port = 503
+2022-10-30-22:21:46 INFO:  start to read config.ini
+2022-10-30-22:21:46 INFO:  [device_2]
+2022-10-30-22:21:46 INFO:  ip = 192.168.1.25
+2022-10-30-22:21:46 INFO:  port = 502
+2022-10-30-22:21:46 INFO:  -----------------------------------
+2022-10-30-22:21:46 INFO:  try to connect device_1 with param ip=127.0.0.1 port=503
+2022-10-30-22:21:46 INFO:  try to send modbus data to device_1
+2022-10-30-22:21:46 INFO:  donedevice_1
+2022-10-30-22:24:11 INFO:  -----------------------------------
+2022-10-30-22:24:11 INFO:  start to read config.ini
+2022-10-30-22:24:11 INFO:  [database]
+2022-10-30-22:24:11 INFO:  database_name = cvd_data
+2022-10-30-22:24:11 INFO:  ip = 127.0.0.1
+2022-10-30-22:24:11 INFO:  password = admin
+2022-10-30-22:24:11 INFO:  port = 3306
+2022-10-30-22:24:11 INFO:  username = root
+2022-10-30-22:24:11 INFO:  start to read config.ini
+2022-10-30-22:24:11 INFO:  [device_1]
+2022-10-30-22:24:11 INFO:  ip = 127.0.0.1
+2022-10-30-22:24:11 INFO:  port = 9999
+2022-10-30-22:24:11 INFO:  start to read config.ini
+2022-10-30-22:24:11 INFO:  [device_2]
+2022-10-30-22:24:11 INFO:  ip = 192.168.1.25
+2022-10-30-22:24:11 INFO:  port = 502
+2022-10-30-22:24:11 INFO:  -----------------------------------
+2022-10-30-22:24:11 INFO:  try to connect device_1 with param ip=127.0.0.1 port=9999
+2022-10-30-22:24:11 INFO:  try to send modbus data to device_1
+2022-10-30-22:24:11 INFO:  donedevice_1

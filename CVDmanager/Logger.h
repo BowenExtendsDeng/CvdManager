@@ -3,6 +3,7 @@
 #include <qdatetime.h>
 #include <string>
 #include <fstream>
+#include <QMessageBox>
 
 namespace Logger
 {

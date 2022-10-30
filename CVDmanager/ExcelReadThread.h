@@ -9,7 +9,6 @@
 class ExcelReadThread : public QThread
 {
 private:
-
 	inline bool DataFileExists();
 
 protected:

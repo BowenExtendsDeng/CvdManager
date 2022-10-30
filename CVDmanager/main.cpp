@@ -15,12 +15,11 @@ int main(int argc, char *argv[])
     config.ReadIni("config.ini");
     config.Travel();
 
-    ExcelReadThread thread;
+    ModbusSocket* modbusSocket = new ModbusSocket("device_1"); 
+    modbusSocket->SetupConnection();
+    modbusSocket->GenerateModbusData();
+    modbusSocket->SendModbusData();
 
-    thread.start();
-
-    Sleep(1000);
-    
     w.show();
     return a.exec();
 }
