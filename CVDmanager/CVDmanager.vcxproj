@@ -106,6 +106,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="config.ini" />
+    <None Include="data.properties" />
+    <None Include="excelGrabber.exe" />
+    <None Include="excelGrabber.py" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CMyIni.h" />

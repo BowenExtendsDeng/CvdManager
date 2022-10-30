@@ -54,6 +54,15 @@
     <None Include="config.ini">
       <Filter>Resource Files</Filter>
     </None>
+    <None Include="data.properties">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="excelGrabber.exe">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="excelGrabber.py">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ModbusSocket.h">
