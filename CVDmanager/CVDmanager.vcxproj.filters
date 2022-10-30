@@ -49,18 +49,18 @@
     <ClCompile Include="CMyIni.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ExcelReadThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="config.ini">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="data.properties">
+    <None Include="data.ini">
       <Filter>Resource Files</Filter>
     </None>
     <None Include="excelGrabber.exe">
-      <Filter>Resource Files</Filter>
-    </None>
-    <None Include="excelGrabber.py">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
@@ -72,6 +72,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CMyIni.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ExcelReadThread.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

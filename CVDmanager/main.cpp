@@ -1,7 +1,11 @@
 ﻿#include "CvdManager.h"
-#include <QtWidgets/QApplication>
 #include "CMyIni.h"
 #include "Logger.h"
+#include "ExcelReadThread.h"
+#include "ModbusSocket.h"
+
+#include <windows.h>
+#include <QtWidgets/QApplication>
 
 int main(int argc, char *argv[])
 {
@@ -10,8 +14,13 @@ int main(int argc, char *argv[])
     CMyIni config;
     config.ReadIni("config.ini");
     config.Travel();
+
+    ExcelReadThread thread;
+
+    thread.start();
+
+    Sleep(1000);
     
-    Logger::Log(config.GetValue("cvd_machine", "port"), Logger::INFO);
     w.show();
     return a.exec();
 }

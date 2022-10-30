@@ -3,15 +3,18 @@
 #include "Logger.h"
 #include "CMyIni.h"
 
-#include <QTcpSocket>
+#include <QThread>
 #include <QString>
+#include <QModbusTcpClient>
+#include <QModbusDataUnit>
 
-class ModbusSocket
+class ModbusSocket : public QThread
 {
 private:
 
-	QTcpSocket* socket;
+	QModbusTcpClient *modbusDevice;
 
+	std::string device_name;
 	QString ip;
 	int port;
 	
@@ -36,8 +39,11 @@ public:
 
 	~ModbusSocket();
 
-	void SendModbusData();
+	void GenerateModbusData();
 
 	void ReceiveModbusData();
+
+protected:
+	void run() override;
 };
 
