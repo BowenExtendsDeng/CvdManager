@@ -1,7 +1,7 @@
 ﻿#pragma once
 
-#include "Logger.h"
-#include "CMyIni.h"
+#include "Log.h"
+#include "IniReader.h"
 
 #include <QString>
 #include <QTcpSocket>

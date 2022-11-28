@@ -108,11 +108,15 @@
     <QtRcc Include="CvdManager.qrc" />
     <QtUic Include="CvdManager.ui" />
     <QtMoc Include="CvdManager.h" />
-    <ClCompile Include="CMyIni.cpp" />
+    <ClCompile Include="Data.cpp" />
+    <ClCompile Include="DataHandler.cpp" />
+    <ClCompile Include="DataPool.cpp" />
+    <ClCompile Include="IniReader.cpp" />
+    <ClCompile Include="DataDao.cpp" />
     <ClCompile Include="CvdManager.cpp" />
     <ClCompile Include="ExcelReadThread.cpp" />
     <ClCompile Include="ModbusSocket.cpp" />
-    <ClCompile Include="Logger.cpp" />
+    <ClCompile Include="Log.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -121,10 +125,14 @@
     <None Include="excelGrabber.exe" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CMyIni.h" />
+    <ClInclude Include="Data.h" />
+    <ClInclude Include="DataHandler.h" />
+    <ClInclude Include="DataPool.h" />
+    <ClInclude Include="IniReader.h" />
+    <ClInclude Include="DataDao.h" />
     <ClInclude Include="ExcelReadThread.h" />
     <ClInclude Include="ModbusSocket.h" />
-    <ClInclude Include="Logger.h" />
+    <ClInclude Include="Log.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="log.txt" />

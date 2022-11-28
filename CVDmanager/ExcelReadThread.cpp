@@ -1,15 +1,14 @@
 #include "ExcelReadThread.h"
 
 void ExcelReadThread::run() {
-	system("excelGrabber.exe");
+	system("excelGrabber.exe -w");
 }
 
-inline bool DataFileExists() {
-    if (FILE* file = fopen("data.ini", "r")) {
-        fclose(file);
-        return true;
-    }
-    else {
-        return false;
-    }
+void ExcelReadThread::ReadCsv() {
+    ExcelReadThread thread;
+    Log::Write("start to read data from excel", Log::INFO);
+    thread.start();
+    thread.quit();
+    thread.wait();
+    Log::Write("read action finished", Log::INFO);
 }

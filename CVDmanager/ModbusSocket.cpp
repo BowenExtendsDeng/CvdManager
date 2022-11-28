@@ -4,7 +4,7 @@ ModbusSocket::ModbusSocket(std::string device_name) {
 
 	this->device_name = device_name;
 	// read from config
-	CMyIni reader;
+	IniReader reader;
 	reader.ReadIni("config.ini");
 	port = atoi(reader.GetValue(device_name, "port").c_str());
 	ip = QString::fromStdString(reader.GetValue(device_name, "ip"));
@@ -12,7 +12,7 @@ ModbusSocket::ModbusSocket(std::string device_name) {
 }
 
 ModbusSocket::~ModbusSocket() {
-
+	delete socket;
 }
 
 
@@ -41,18 +41,18 @@ void ModbusSocket::GenerateModbusData() {
 }
 
 void ModbusSocket::SetupConnection() {
-	Logger::Log("try to connect " + device_name + " with param ip="
-		+ ip.toStdString() + " port=" + std::to_string(port), Logger::INFO);
+	Log::Write("try to connect " + device_name + " with param ip="
+		+ ip.toStdString() + " port=" + std::to_string(port), Log::INFO);
 
 	socket = new QTcpSocket();
 	socket->connectToHost(ip, port);
 }
 
 void ModbusSocket::SendModbusData() {
-	Logger::Log("try to send modbus data to " + device_name, Logger::INFO);
+	Log::Write("try to send modbus data to " + device_name, Log::INFO);
 	socket->write(send_buf,12);
 	socket->waitForBytesWritten();
-	Logger::Log("done" + device_name, Logger::INFO);
+	Log::Write("done" + device_name, Log::INFO);
 }
 
 void ModbusSocket::ReceiveModbusData() {

@@ -5,11 +5,11 @@
 #include <fstream>
 #include <QMessageBox>
 
-namespace Logger
+namespace Log
 {
 	const int INFO = 0;
 	const int ERROR = 1;
 
-	void Log(std::string msg, int type);
+	void Write(std::string msg, int type);
 };
 

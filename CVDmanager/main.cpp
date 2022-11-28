@@ -1,8 +1,9 @@
 ﻿#include "CvdManager.h"
-#include "CMyIni.h"
-#include "Logger.h"
+#include "IniReader.h"
+#include "Log.h"
 #include "ExcelReadThread.h"
 #include "ModbusSocket.h"
+#include <qsqldatabase.h>
 
 #include <windows.h>
 #include <QtWidgets/QApplication>
@@ -11,14 +12,11 @@ int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
     CvdManager w;
-    CMyIni config;
+    IniReader config;
     config.ReadIni("config.ini");
     config.Travel();
 
-    ModbusSocket* modbusSocket = new ModbusSocket("device_1"); 
-    modbusSocket->SetupConnection();
-    modbusSocket->GenerateModbusData();
-    modbusSocket->SendModbusData();
+    ExcelReadThread::ReadCsv();
 
     w.show();
     return a.exec();

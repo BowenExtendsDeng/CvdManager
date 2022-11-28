@@ -6,7 +6,7 @@
 #include <vector>
 #include <cstdlib>
 #include <map>
-#include "Logger.h"
+#include "Log.h"
 
 //INI文件结点存储结构
 class IniNode
@@ -35,16 +35,13 @@ public:
 };
 
 //INI文件操作类
-class CMyIni
+class IniReader
 {
 private:
     /// <summary>
     ///     INI文件内容的存储变量
     /// </summary>
     std::map<std::string, SubNode> map_ini;
-public:
-    CMyIni();
-    ~CMyIni();
 
 public:
     /// <summary>

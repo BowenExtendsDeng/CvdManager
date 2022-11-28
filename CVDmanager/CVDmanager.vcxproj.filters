@@ -43,13 +43,25 @@
     <ClCompile Include="ModbusSocket.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Logger.cpp">
+    <ClCompile Include="Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CMyIni.cpp">
+    <ClCompile Include="IniReader.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="ExcelReadThread.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataDao.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DataPool.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Data.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -57,10 +69,10 @@
     <None Include="config.ini">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="data.ini">
+    <None Include="excelGrabber.exe">
       <Filter>Resource Files</Filter>
     </None>
-    <None Include="excelGrabber.exe">
+    <None Include="data.ini">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
@@ -68,13 +80,25 @@
     <ClInclude Include="ModbusSocket.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="Logger.h">
+    <ClInclude Include="Log.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CMyIni.h">
+    <ClInclude Include="IniReader.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="ExcelReadThread.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataDao.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataHandler.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DataPool.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

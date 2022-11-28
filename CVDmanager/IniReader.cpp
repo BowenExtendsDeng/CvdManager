@@ -1,15 +1,6 @@
-﻿#include "CMyIni.h"
+﻿#include "IniReader.h"
 
 #define INIDEBUG
-
-CMyIni::CMyIni()
-{
-}
-
-
-CMyIni::~CMyIni()
-{
-}
 
 std::string& TrimString(std::string& str)
 {
@@ -19,7 +10,7 @@ std::string& TrimString(std::string& str)
     return str;
 }
 
-int CMyIni::ReadIni(std::string path)
+int IniReader::ReadIni(std::string path)
 {
     std::ifstream in_conf_file(path.c_str());
     if (!in_conf_file) return 0;
@@ -85,7 +76,7 @@ int CMyIni::ReadIni(std::string path)
     return 1;
 }
 
-std::string CMyIni::GetValue(std::string root, std::string key)
+std::string IniReader::GetValue(std::string root, std::string key)
 {
     std::map<std::string, SubNode>::iterator itr = map_ini.find(root);
     std::map<std::string, std::string>::iterator sub_itr = itr->second.sub_node.find(key);
@@ -94,7 +85,7 @@ std::string CMyIni::GetValue(std::string root, std::string key)
     return "";
 }
 
-int CMyIni::WriteIni(std::string path)
+int IniReader::WriteIni(std::string path)
 {
     std::ofstream out_conf_file(path.c_str());
     if (!out_conf_file)
@@ -117,7 +108,7 @@ int CMyIni::WriteIni(std::string path)
     return 1;
 }
 
-std::vector<IniNode>::size_type CMyIni::SetValue(std::string root, std::string key, std::string value)
+std::vector<IniNode>::size_type IniReader::SetValue(std::string root, std::string key, std::string value)
 {
     std::map<std::string, SubNode>::iterator itr = map_ini.find(root);  //查找
     if (map_ini.end() != itr)
@@ -135,32 +126,31 @@ std::vector<IniNode>::size_type CMyIni::SetValue(std::string root, std::string k
     return map_ini.size();
 }
 
-void CMyIni::Travel()
+void IniReader::Travel()
 {
-    Logger::Log("-----------------------------------", Logger::INFO);
+    Log::Write("-----------------------------------", Log::INFO);
+    Log::Write("start to read config.ini", Log::INFO);
     for (std::map<std::string, SubNode>::iterator itr = this->map_ini.begin(); itr != this->map_ini.end(); ++itr)
     {
         //root
-        
-        Logger::Log("start to read config.ini", Logger::INFO);
         std::string header ="[" + itr->first + "]";
-        Logger::Log(header, Logger::INFO);
+        Log::Write(header, Log::INFO);
         for (std::map<std::string, std::string>::iterator itr1 = itr->second.sub_node.begin(); itr1 != itr->second.sub_node.end();
             ++itr1)
         {
             std::string line =itr1->first + " = " + itr1->second;
-            Logger::Log(line, Logger::INFO);
+            Log::Write(line, Log::INFO);
         }
     }
-    Logger::Log("-----------------------------------", Logger::INFO);
+    Log::Write("-----------------------------------", Log::INFO);
 }
 
-std::vector<IniNode>::size_type CMyIni::GetSize()
+std::vector<IniNode>::size_type IniReader::GetSize()
 { 
     return map_ini.size(); 
 }
 
-void CMyIni::Clear()
+void IniReader::Clear()
 { 
     map_ini.clear(); 
 }

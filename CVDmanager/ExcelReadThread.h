@@ -1,6 +1,6 @@
 #pragma once
 
-#include "CMyIni.h"
+#include "IniReader.h"
 
 #include <string>
 #include <map>
@@ -8,12 +8,11 @@
 
 class ExcelReadThread : public QThread
 {
-private:
-	inline bool DataFileExists();
-
 protected:
-
 	void run() override;
+
+public:
+	static void ReadCsv();
 };
 
 

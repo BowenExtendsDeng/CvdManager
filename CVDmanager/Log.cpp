@@ -1,6 +1,6 @@
-﻿#include "Logger.h"
+﻿#include "Log.h"
 
-void Logger::Log(std::string msg,int type) {
+void Log::Write(std::string msg,int type) {
 	// open log.txt to write
 	std::ofstream outfile;
 	outfile.open("log.txt", std::ios::app);
